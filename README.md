@@ -1,4 +1,4 @@
-# Thermo-chem
+# Thermo-mechanical codes
 GEO4-1442_UU_Thermo-chemical_codes_2020_period1
 The codes were created for the course GEO4 - 1402 - Modelling of the Lithosphere and Crust Deformation offered by Utrecht University,
 2020 period 1, and coordinated by Dr. Y. van Dinther.
